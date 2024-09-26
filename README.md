@@ -26,4 +26,5 @@ This project provides a hands-on approach to understanding the Law of Large Numb
 
 
 **References** 
-www.superdatascience.com
+Kirill Eremenko, www.superdatascience.com
+
